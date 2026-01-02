@@ -1,0 +1,12 @@
+2026-01-02T16:04:15.313555500 | Student saved: Ali
+2026-01-02T16:04:15.315644900 | Student saved: Sara
+2026-01-02T16:04:15.316647100 | Student saved: Usman
+[2026-01-02 16:13:46] [ADD_STUDENT] Added student: John Doe
+[2026-01-02 16:13:46] [ADD_STUDENT] Added student: Jane Smith
+[2026-01-02 16:13:46] [ADD_COURSE] Added course: Introduction to Programming
+[2026-01-02 16:14:18] [ADD_STUDENT] Added student: John Doe
+[2026-01-02 16:14:18] [ADD_STUDENT] Added student: Jane Smith
+[2026-01-02 16:14:18] [ADD_COURSE] Added course: Introduction to Programming
+[2026-01-02 16:17:33] [ADD_STUDENT] Added student: John Doe
+[2026-01-02 16:17:33] [ADD_STUDENT] Added student: Jane Smith
+[2026-01-02 16:17:33] [ADD_COURSE] Added course: Introduction to Programming

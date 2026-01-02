@@ -1,0 +1,1 @@
+1|kabeer|Computer Science|Programming:89|DSA:90|DBMS:80|OS:90|Networks:85
